@@ -43,8 +43,8 @@ pynput
 Clone the repo and run the script.
 
 ```bash
-git clone https://github.com/yourusername/keylogger-poc.git
-cd keylogger-poc
+git clone https://github.com/wrmgt/python-keylogger.git
+cd ~/python-keylogger/src
 python3 keylogger.py
 ```
 The program will start listening for keystrokes immediately.
