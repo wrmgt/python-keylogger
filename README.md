@@ -56,3 +56,5 @@ Roadmap (optional ideas)
 - Add CLI flags for specifying the log file location
 - Option to record timestamps with keystrokes
 - Suport for stopping the logger with a hotkey
+- Potentially re-writing in C as a self-contained executable
+- Ability to report out to a remote C2
